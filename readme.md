@@ -1,0 +1,1 @@
+# A sample application to list down restaurants from a mongodb
